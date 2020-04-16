@@ -1,0 +1,6 @@
+{
+ "keep_fnames": true,
+ "keep_classnames": true,
+ "mangle": false,
+ "compress": false
+}
